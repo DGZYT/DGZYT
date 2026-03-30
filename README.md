@@ -15,5 +15,3 @@
 <h3 align="left">Support Me:</h3>
 <p><a href="https://ko-fi.com/dgzyt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dgzyt" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgzyt&show_icons=true&locale=en&layout=compact" alt="dgzyt" /></p>
-
